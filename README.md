@@ -1,5 +1,5 @@
 # Projeto-1-Site-Est-tico-na-AWS-
-Deploy de um site estatico na nuvem com distribuição global ( S3 e CloudFront)
+
 📌 Descrição
 
 Este projeto consiste em hospedar um site estático utilizando o Amazon S3 e distribuí-lo globalmente através do Amazon CloudFront.
