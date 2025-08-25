@@ -22,10 +22,10 @@ Este projeto demonstra a criação e hospedagem de um site estático, utilizando
     * O acesso ao site foi testado e validado através do endpoint público do CloudFront, confirmando que a distribuição está funcionando corretamente.
 
 ### Etapas do Projeto com Imagens
-* [Visão geral de Bucket](Captura de tela 2025-08-22 111206.jpg) **Bucket S3 configurado:** Mostra a criação do bucket 'cauafreire-portfolio' na região sa-east-1.
-* [Upload de arquivos](Captura de tela 2025-08-22 111542.jpg) **Arquivos Carregados:** Confirma o upload dos arquivos `index.html` e `aws.jpg` no bucket.
-* [Criação da distribuição Cloudfront](Captura de tela 2025-08-25 082624.jpg) **Distribuição CloudFront:** Exibe a distribuição CloudFront criada e o status de 'Enabled'.
-* [Acessando o Site pela URL](Captura de tela 2025-08-25 083311.jpg) **Site Acessível pela URL:** Demonstra o site de portfólio funcionando corretamente através do link do CloudFront.
+* ![Visão geral de Bucket](Captura de tela 2025-08-22 111206.jpg) **Bucket S3 configurado:** Mostra a criação do bucket 'cauafreire-portfolio' na região sa-east-1.
+* ![Upload de arquivos](Captura de tela 2025-08-22 111542.jpg) **Arquivos Carregados:** Confirma o upload dos arquivos `index.html` e `aws.jpg` no bucket.
+* ![Criação da distribuição Cloudfront](Captura de tela 2025-08-25 082624.jpg) **Distribuição CloudFront:** Exibe a distribuição CloudFront criada e o status de 'Enabled'.
+* ![Acessando o Site pela URL](Captura de tela 2025-08-25 083311.jpg) **Site Acessível pela URL:** Demonstra o site de portfólio funcionando corretamente através do link do CloudFront.
 
 ### Aprendizados
 * **Hospedagem de Site Estático:** Ganhos em eficiência e custo usando S3.
