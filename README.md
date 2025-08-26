@@ -22,10 +22,16 @@ Este projeto demonstra a criação e hospedagem de um site estático, utilizando
     * O acesso ao site foi testado e validado através do endpoint público do CloudFront, confirmando que a distribuição está funcionando corretamente.
 
 ### Etapas do Projeto com Imagens
-* ![Visão geral de Bucket](Captura de tela 2025-08-22 111206.jpg) **Bucket S3 configurado:** Mostra a criação do bucket...
-* ![Upload de arquivos](Captura de tela 2025-08-22 111542.jpg) **Arquivos Carregados:** Confirma o upload dos arquivos `index.html` e `aws.jpg` no bucket.
-* ![Criação da distribuição CloudFront](Captura de tela 2025-08-25 082624.jpg) **Distribuição CloudFront:** Exibe a distribuição CloudFront criada...
-* ![Acessando o site pela URL](Captura de tela 2025-08-25 083311.jpg) **Site Acessível pela URL:** Demonstra o site de portfólio...
+*  **Bucket S3 configurado:** Mostra a criação do bucket...
+<img src="https://github.com/cauafreirealves/Projeto-1-Site-Est-tico-na-AWS-/blob/main/Captura%20de%20tela%202025-08-22%20111206.jpg?raw=true">
+   **Configuração de Bucket:**
+   <img src="https://github.com/cauafreirealves/Projeto-1-Site-Est-tico-na-AWS-/blob/main/Captura%20de%20tela%202025-08-22%20111344.jpg">
+*  **Arquivos Carregados:** Confirma o upload dos arquivos `index.html` e `aws.jpg` no bucket.
+*  <img src="https://github.com/cauafreirealves/Projeto-1-Site-Est-tico-na-AWS-/blob/main/Captura%20de%20tela%202025-08-22%20111542.jpg">
+*  **Distribuição CloudFront:** Exibe a distribuição CloudFront criada...
+*  <img src="https://github.com/cauafreirealves/Projeto-1-Site-Est-tico-na-AWS-/blob/main/Captura%20de%20tela%202025-08-25%20082624.jpg">
+* **Site Acessível pela URL:** Demonstra o site de portfólio...
+* <img src="https://github.com/cauafreirealves/Projeto-1-Site-Est-tico-na-AWS-/blob/main/Captura%20de%20tela%202025-08-25%20083311.jpg">
   
 ### Aprendizados
 * **Hospedagem de Site Estático:** Ganhos em eficiência e custo usando S3.
